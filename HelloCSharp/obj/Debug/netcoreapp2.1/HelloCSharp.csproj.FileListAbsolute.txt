@@ -1,0 +1,11 @@
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.deps.json
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.runtimeconfig.json
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.runtimeconfig.dev.json
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.dll
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.pdb
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.csprojAssemblyReference.cache
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.AssemblyInfo.cs
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.dll
+C:\Users\kasha\dev\VisualStudio\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.pdb

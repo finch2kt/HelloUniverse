@@ -1,0 +1,11 @@
+C:\Users\kasha\dev\VisualStudio\HelloVB\bin\Debug\netcoreapp2.1\HelloVB.deps.json
+C:\Users\kasha\dev\VisualStudio\HelloVB\bin\Debug\netcoreapp2.1\HelloVB.runtimeconfig.json
+C:\Users\kasha\dev\VisualStudio\HelloVB\bin\Debug\netcoreapp2.1\HelloVB.runtimeconfig.dev.json
+C:\Users\kasha\dev\VisualStudio\HelloVB\bin\Debug\netcoreapp2.1\HelloVB.dll
+C:\Users\kasha\dev\VisualStudio\HelloVB\bin\Debug\netcoreapp2.1\HelloVB.pdb
+C:\Users\kasha\dev\VisualStudio\HelloVB\obj\Debug\netcoreapp2.1\HelloVB.vbprojAssemblyReference.cache
+C:\Users\kasha\dev\VisualStudio\HelloVB\obj\Debug\netcoreapp2.1\HelloVB.vbproj.CoreCompileInputs.cache
+C:\Users\kasha\dev\VisualStudio\HelloVB\obj\Debug\netcoreapp2.1\HelloVB.AssemblyInfoInputs.cache
+C:\Users\kasha\dev\VisualStudio\HelloVB\obj\Debug\netcoreapp2.1\HelloVB.AssemblyInfo.vb
+C:\Users\kasha\dev\VisualStudio\HelloVB\obj\Debug\netcoreapp2.1\HelloVB.dll
+C:\Users\kasha\dev\VisualStudio\HelloVB\obj\Debug\netcoreapp2.1\HelloVB.pdb
